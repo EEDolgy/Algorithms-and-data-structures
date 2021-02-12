@@ -1,7 +1,7 @@
 import random
 
 MAX = 50
-SIZE = 10
+SIZE = 12
 
 def merge_sort(arr):
     # print('*' * 50)

@@ -2,7 +2,7 @@ import random
 
 FST = -100
 LST = 100
-SIZE = 10
+SIZE = 12
 
 def bubble_sort(arr):
     for i in range(len(arr) - 1):

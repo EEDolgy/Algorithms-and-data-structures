@@ -3,7 +3,7 @@ import random
 M = 5
 SIZE = 2 * M + 1
 FST = 0
-LST = 100
+LST = 80
 
 def median(arr):
     ls = 0
